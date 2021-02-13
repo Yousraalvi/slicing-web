@@ -1,0 +1,55 @@
+#topbelt{padding-left:1.5%;}
+#topbelt ul{
+	list-style-type:none;
+	float:left;}
+	
+#topbelt ul li{clear:both;
+	display:inline-block;
+	font-size:18px;
+	font-weight:bold;
+	font-family:Myriad Pro;
+	color:#060606;
+	}
+	
+
+#rite{float:right;
+
+padding-right:40px; 
+margin-top:-3%;}
+
+
+
+#banner{background-image:url(../images/images/jghfj_06.png);
+clear:both;
+width:95%;
+height:800px;
+background-size:cover; margin:0 auto;}
+
+
+#banner h1{
+	font-family:Myriad Pro;
+	font-size:30px;
+	color:#FFF;
+	margin-top:-170px;
+	margin-left:100px;}
+#text{font-family:Myriad Pro; font-size:24px; width:65%; margin:0 auto;}
+span{font-weight:bold;}
+#p2{font-size:30.82px; font-style:italic; color:2c2b30; font-family:Myriad Pro; font-size:24px; width:60%; margin:0 auto; text-align:center;}
+#p3{font-size:30.82px; font-style:italic; color:000000; font-family:Myriad Pro; font-size:24px; width:60%; margin:0 auto; text-align:center;}
+#navi ul{clear:both; list-style-type:none; float:right; background-color:#CCC; margin-top:-80px; width:50%; border:#CCC 15px solid;}
+#navi ul li{display:inline-block; margin-left:7px; font-size:20px; font-style:italic; font-weight:bold;}
+#navi ul li a{text-decoration:none; color:#000;}
+#navi ul li a:hover{text-decoration:underline; color:#FFF;}
+#name a{text-decoration:none; font-style:italic; color:#FFF;}
+#name a:hover{text-decoration:underline; color:#000;}
+h2{clear:both; text-decoration:underline; float:right; width:40%; margin-top:5%;}
+h2 a{text-decoration:none; color:#000; font-weight:bold;}
+h2 a:hover{color:#00F; text-decoration:underline;}
+#pic{clear:both; margin-left:25%; font-size:24px;}
+hr{width:80%;}
+#rite2{clear:both; float:right; margin-right:120px;}
+#you{width:20%; color:#000; }
+
+
+
+
